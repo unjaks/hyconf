@@ -26,7 +26,7 @@ That's all.
 
 ```bash
 ~ $ hyconf
->                                                                                                                 
+> Choose a file to open with nvim                                                                                                                
 ────────────
 ▌ ./hyprpaper.conf                                                                                                
 ▌ ./pyprland.toml                                                                                                 
